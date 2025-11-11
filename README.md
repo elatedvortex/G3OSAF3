@@ -29,7 +29,7 @@ Architecture -	MVVM (Model–View–ViewModel)
 
 Open a terminal and run:
 
-git clone [https://github.com/yourusername/geosafe.git](https://github.com/elatedvortex/G3OSAF3/tree/main)
+git clone https://github.com/elatedvortex/G3OSAF3/tree/main
 
 2️⃣ Open the Project in Android Studio
 
