@@ -17,11 +17,17 @@ Users can contribute by reporting incidents, which are immediately reflected on 
 When the user enters a high-risk zone, the app automatically sends an in-app alert to ensure awareness and safety.
 
 🧩 Tech Stack
+
 COMPONENT	TECHNOLOGY
+
 Language -	Kotlin
+
 IDE -	Android Studio
+
 Map -	OpenStreetMap (via OSMDroid / MapLibre)
+
 Database -	Local Storage (SQLite / Room Database)
+
 Architecture -	MVVM (Model–View–ViewModel)
 
 💻 Setting Up GEOSAFE Locally
